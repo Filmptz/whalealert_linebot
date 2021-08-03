@@ -3,8 +3,8 @@ package svc
 import (
 	"fmt"
 	"github.com/enescakir/emoji"
-	"github.com/Filmptz/whalealert_bot/transactions/serializer"
-	"github.com/Filmptz/whalealert_bot/line/model"
+	"github.com/Filmptz/whalealert_linebot/transactions/serializer"
+	"github.com/Filmptz/whalealert_linebot/line/model"
 )
 
 var prv_id string

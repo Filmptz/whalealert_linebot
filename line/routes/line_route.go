@@ -5,8 +5,8 @@ import (
 	"log"
 	"github.com/gin-gonic/gin"
 
-	"github.com/Filmptz/whalealert_bot/line/model"
-	"github.com/Filmptz/whalealert_bot/line/svc"
+	"github.com/Filmptz/whalealert_linebot/line/model"
+	"github.com/Filmptz/whalealert_linebot/line/svc"
 )
 
 func GetStatusOK() gin.HandlerFunc{

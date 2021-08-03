@@ -9,9 +9,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Filmptz/whalealert_bot/config/svc"
-	 lineSvc "github.com/Filmptz/whalealert_bot/line/svc"
-	"github.com/Filmptz/whalealert_bot/transactions/serializer"
+	"github.com/Filmptz/whalealert_linebot/config/svc"
+	 lineSvc "github.com/Filmptz/whalealert_linebot/line/svc"
+	"github.com/Filmptz/whalealert_linebot/transactions/serializer"
 	"strings"
 )
 

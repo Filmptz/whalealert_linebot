@@ -1,7 +1,7 @@
 package server
 
 import (
-	route "github.com/Filmptz/whalealert_bot/line/routes"
+	route "github.com/Filmptz/whalealert_linebot/line/routes"
 	"github.com/gin-gonic/gin"
 )
 

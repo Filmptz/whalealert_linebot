@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"github.com/Filmptz/whalealert_bot/transactions/svc"
+	"github.com/Filmptz/whalealert_linebot/transactions/svc"
 )
 
 func main() {

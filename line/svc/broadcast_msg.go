@@ -7,9 +7,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Filmptz/whalealert_bot/line/model"
-	"github.com/Filmptz/whalealert_bot/line/types"
-	"github.com/Filmptz/whalealert_bot/config/svc"
+	"github.com/Filmptz/whalealert_linebot/line/model"
+	"github.com/Filmptz/whalealert_linebot/line/types"
+	"github.com/Filmptz/whalealert_linebot/config/svc"
 )
 
 func BroadcastMessageLine(Message *model.BroadcastMessage) error {
