@@ -1,4 +1,4 @@
-module github.com/Filmptz/whalealert_bot
+module github.com/Filmptz/whalealert_linebot
 
 go 1.15
 
